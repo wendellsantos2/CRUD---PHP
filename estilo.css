@@ -1,0 +1,97 @@
+
+		div.content h1{
+			color: #0000FF;
+			text-align: center;
+		}
+		div.content{
+			padding-bottom: 10px;
+		}
+		label{
+			color: #0000FF;
+			font-weight: bold;
+		}
+		input:hover{
+			background-color: #87CEFA;
+		}
+		td.busca{
+			text-align: center;
+		}
+		button{
+			border: none;
+			color: #FFFFFF;
+			height: 25px;
+		}
+		button.padrao{
+			background-color: #0000FF;
+		}
+		button.limpar{
+			background-color:  slateblue;
+		}
+		button.editar{
+			background-color: #FFFF00;
+		}
+		button.excluir{
+			background-color: #FF0000;
+		}
+		
+		table.resultado{
+			table-layout: fixed;
+			border: 10px solid #6495ED;
+			border-collapse: separate;
+  			border-spacing: 5px 5px;
+		}
+		table.resultado th{
+			border: 1px solid #000;
+		}
+		table.resultado td{
+			border: 1px solid #000;
+		}
+		table.resultado tr{
+			border: 1px solid #000;
+		}
+
+
+nav ul {
+  display: flex;
+}
+
+nav li {
+  list-style: none;
+  padding: 5px;
+  cursor: pointer;
+}
+
+nav ul li a {
+  color: #0000FF;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color:#6495ED;
+}
+
+
+h2{
+	text-align: center;
+	color:#0000FF;
+}
+
+section h3{
+	text-align: center;
+	color:#0000FF;
+}
+
+img{
+  width: 300px;
+  height: 200px;
+	padding-left: 40%;
+}
+img.img-fluid{
+	width: 90%;
+	right: 10px;
+	justify-content: start;
+	position: static;
+	
+}
+
+
